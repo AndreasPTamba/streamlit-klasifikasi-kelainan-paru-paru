@@ -7,3 +7,5 @@ scipy
 scikit-image
 scikit-learn
 joblib
+torch
+torchvision
