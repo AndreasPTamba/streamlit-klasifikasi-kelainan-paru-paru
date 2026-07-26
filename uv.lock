@@ -1,1 +1,7 @@
+[[package]]
+name = "opencv-python"
+version = "4.12.0.88"
 
+[[package]]
+name = "numpy"
+version = "2.3.2"
